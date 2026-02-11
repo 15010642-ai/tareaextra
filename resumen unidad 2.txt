@@ -1,0 +1,7 @@
+
+
+Unidad 2 - Programación básica
+
+Este tema si se me hizo bastante complicado porque es mi primera interacción con un proceso de programación, ya había investigado o estudiado un poco sobre lenguajes pero nada como esto. No se malentienda, me costó un montón pero me encantó poder lograrlo finalmente. 
+
+Me parece tan interesante como un "conjunto de códigos" permiten que las aplicaciones se ejecuten y que sean tan lógicas y exactas. 

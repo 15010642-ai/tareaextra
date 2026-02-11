@@ -1,0 +1,6 @@
+
+
+
+Unidad 1 - Sistema Binario 
+
+Este tema me pareció importante porque es el inicio de todo lenguaje virtual, por llamarlo así. Entender de donde vienen las combinaciones y el sistema binario es el inicio de nuestro camino en la programación. No me resultó difícil pero tampoco fácil, solamente el proceso de elaboración fue extenso. 
